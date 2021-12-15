@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# CSEC-201
 
-You can use the [editor on GitHub](https://github.com/Sma-Das/CSEC-201/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![programming](https://user-images.githubusercontent.com/20164942/146232742-73bac5c8-cf46-4e11-8ae8-ab6e1d272338.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My course notes and programs from the CSEC.201 seminar
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Topics
 
-```markdown
-Syntax highlighted code block
+1. Python
+	- High level language
+	- Real world program functions
+		- Password cracking
+		- Log file analysis
+	- Threading
+	- Socket Programming
+2. C
+	- Medium Level Programming language
+	- Primitive Types
+	- Working with Pointers
+	- Dynamic Memory allocation
+	- Life cycle of a C program
+	- Understanding and exploiting buffer overflows
 
-# Header 1
-## Header 2
-### Header 3
+3. Assembly
+	- Low level implementation of C functionality
+	- Working with the stack, heap, and registers
+	- Using external functions made in C
+	- Understanding low level implementation and register standards
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+## Homeworks
 
-**Bold** and _Italic_ and `Code` text
+- Homework 1: Log files and Cracking
+	- Python
+	- Cracking password protected zip files
+	- Analysis of camera log files
+	- Threading to increase production rate
+- Homework 2: TTP Service
+	- Python
+	- Simple TTP service between client and server
+	- Allow secure and insecure communication
+		- Using DES and public key exchange protocol
+- Homework 3: Snakes and Ladders
+	- C
+	- Simple implementation of snakes and ladders in C
+	- Dynamic memory allocation
+- Homework 4: Caeser Cipher
+	- Assembly 
+	- Simple Caeser Cipher implementation in `nasm` 32-bit assembly
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sma-Das/CSEC-201/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
