@@ -33,21 +33,21 @@ My course notes and programs from the CSEC.201 seminar
 
 ## Homeworks
 
-- Homework 1: Log files and Cracking
+- [Homework 1: Log files and Cracking](https://github.com/Sma-Das/CSEC-201/tree/main/Homework%201)
 	- Python
 	- Cracking password protected zip files
 	- Analysis of camera log files
 	- Threading to increase production rate
-- Homework 2: TTP Service
+- [Homework 2: TTP Service](https://github.com/Sma-Das/CSEC-201/tree/main/Homework%202)
 	- Python
 	- Simple TTP service between client and server
 	- Allow secure and insecure communication
 		- Using DES and public key exchange protocol
-- Homework 3: Snakes and Ladders
+- [Homework 3: Snakes and Ladders](https://github.com/Sma-Das/CSEC-201/tree/main/Homework%203)
 	- C
 	- Simple implementation of snakes and ladders in C
 	- Dynamic memory allocation
-- Homework 4: Caeser Cipher
+- [Homework 4: Caeser Cipher](https://github.com/Sma-Das/CSEC-201/tree/main/Homework%204)
 	- Assembly 
 	- Simple Caeser Cipher implementation in `nasm` 32-bit assembly
 
