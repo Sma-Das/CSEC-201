@@ -1,10 +1,13 @@
 # CSEC-201
 
+![programming](https://user-images.githubusercontent.com/20164942/146232742-73bac5c8-cf46-4e11-8ae8-ab6e1d272338.gif)
+
 My course notes and programs from the CSEC.201 seminar
 
 ---
 
-The topics explored in this semester were:
+## Topics
+
 1. Python
 	- High level language
 	- Real world program functions
@@ -26,4 +29,26 @@ The topics explored in this semester were:
 	- Using external functions made in C
 	- Understanding low level implementation and register standards
 
-![programming](https://user-images.githubusercontent.com/20164942/146232742-73bac5c8-cf46-4e11-8ae8-ab6e1d272338.gif)
+---
+
+## Homeworks
+
+- Homework 1: Log files and Cracking
+	- Python
+	- Cracking password protected zip files
+	- Analysis of camera log files
+	- Threading to increase production rate
+- Homework 2: TTP Service
+	- Python
+	- Simple TTP service between client and server
+	- Allow secure and insecure communication
+		- Using DES and public key exchange protocol
+- Homework 3: Snakes and Ladders
+	- C
+	- Simple implementation of snakes and ladders in C
+	- Dynamic memory allocation
+- Homework 4: Caeser Cipher
+	- Assembly 
+	- Simple Caeser Cipher implementation in `nasm` 32-bit assembly
+
+
